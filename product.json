@@ -228,15 +228,15 @@
         },
         {
             "title": "home-decoration",
-            "img": "https://example.com/home-decoration.jpg"
+            "img": "https://aman5062.github.io/api/images/home.jpg"
         },
         {
             "title": "smartphones",
-            "img": "https://example.com/smartphones.jpg"
+            "img": "https://aman5062.github.io/api/images/smartphone.jpg"
         },
         {
             "title": "laptops",
-            "img": "https://example.com/laptops.jpg"
+            "img": "https://aman5062.github.io/api/images/laptop.jpg"
         }
     ]
 }
