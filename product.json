@@ -556,5 +556,28 @@
     "total": 100,
     "skip": 0,
     "limit": 30,
-    "categories" : ["groceries","home-decoration","skincare","fragrances","laptops","smartphones"]
+    "categories" : [{
+        "title":"groceries",
+        "img":""
+    },
+    {
+        "title":"home-decoration",
+        "img":""
+    },{
+        "title":"skincare",
+        "img":""
+    },
+    {
+        "title":"fragrances",
+        "img":""
+    },
+    {
+        "title":"laptops",
+        "img":""
+    },
+    {
+        "title":"smartphones",
+        "img":""
+    }
+]
 }
