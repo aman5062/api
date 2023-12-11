@@ -237,6 +237,14 @@
         {
             "title": "Laptops",
             "img": "https://aman5062.github.io/api/images/laptop.jpg"
+        },
+        {
+            "title": "Fashion",
+            "img": "https://aman5062.github.io/api/images/fashion.webp"
+        },
+        {
+            "title": "Accesories",
+            "img": "https://aman5062.github.io/api/images/Acesories.png"
         }
     ]
 }
