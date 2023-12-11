@@ -223,19 +223,19 @@
     },
     "categories": [
         {
-            "title": "groceries",
+            "title": "Groceries",
             "img": "https://aman5062.github.io/api/images/groceries.jpg"
         },
         {
-            "title": "home-decoration",
+            "title": "Home",
             "img": "https://aman5062.github.io/api/images/home.jpg"
         },
         {
-            "title": "smartphones",
+            "title": "Smartphones",
             "img": "https://aman5062.github.io/api/images/smartphone.jpg"
         },
         {
-            "title": "laptops",
+            "title": "Laptops",
             "img": "https://aman5062.github.io/api/images/laptop.jpg"
         }
     ]
